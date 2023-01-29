@@ -1,6 +1,6 @@
 - 👋 hello, this is Rachel
 - 👀 I’m interested in Analytics and Business Strategies
-- 🌱 I’m currently learning Data Science and Analytics
+- 🌱 I’m currently learning Big Data Analytics
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Reach me on bbal.jrachrosh@gmail.com 
 
